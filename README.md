@@ -12,7 +12,7 @@ Data is taken from Kaggle: https://www.kaggle.com/datasets/himanshupoddar/zomato
 
 Main objectives of this project:
 
-- Perform Exploratory Data Analysis (EDA).
+- Perform **Exploratory Data Analysis (EDA)**.
 - Build a ML model that will help various Zomato Restaurants to predict their respective Ratings based on certain features.
 - Deploy the Machine Learning model via Flask that can be used to make live predictions of restaurants ratings.
 

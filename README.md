@@ -1,7 +1,7 @@
 
 # Prediction of Restaurant Rating
 
-Zomato is an online food delivery app which gives users the ratings and the reviews on restaurants all over India.
+**Zomato** is an online food delivery app which gives users the ratings and the reviews on restaurants all over India.
 
 
 We want to build an application which predict rating for a Restaurant according to  its several features (as location, type of restaurant, menu, delivery, etc). 
@@ -13,8 +13,8 @@ Data is taken from Kaggle: https://www.kaggle.com/datasets/himanshupoddar/zomato
 Main objectives of this project:
 
 - Perform **Exploratory Data Analysis (EDA)**.
-- Build a ML model that will help various Zomato Restaurants to predict their respective Ratings based on certain features.
-- Deploy the Machine Learning model via Flask that can be used to make live predictions of restaurants ratings.
+- **Build a ML model** that will help various Zomato Restaurants to predict their respective Ratings based on certain features.
+- **Deploy** the Machine Learning model **via Flask** that can be used to make live predictions of restaurants ratings.
 
 
 
